@@ -4,6 +4,12 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [RuriDragon](https://anilist.co/manga/150440) (10:32 26 March 2024)
+-   📺 Completed [Yarichin☆Bitch-bu](https://anilist.co/anime/101374) (10:30 26 March 2024)
+-   📺 Watched episode 1 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (09:44 26 March 2024)
+-   📺 Watched episode 7 - 8 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (02:20 25 March 2024)
+-   📺 Watched episode 4 - 6 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (10:47 21 March 2024)
+
 <!-- ANILIST_ACTIVITY:end -->
 
 # > OS
