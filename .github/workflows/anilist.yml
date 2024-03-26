@@ -14,5 +14,4 @@ jobs:
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@senpai # latest version
         with:
-          user_id: 6541779 # or
-          user_name: seaprano
+          user_id: 6541779
