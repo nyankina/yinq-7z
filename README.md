@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)
 ![](https://img.shields.io/badge/RAD%20Studio-E62431.svg?style=for-the-badge&logo=RAD-Studio&logoColor=white)
 # > Contact
 [![](https://img.shields.io/badge/Disroot-50162D.svg?style=for-the-badge&logo=Disroot&logoColor=white)](mailto:seaprano@disroot.org)
