@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The God of High School](https://anilist.co/anime/116006) (15:13 03 April 2024)
 -   📺 Watched episode 10 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (14:59 30 March 2024)
 -   📺 Watched episode 9 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:05 26 March 2024)
 -   📖 Plans to read [RuriDragon](https://anilist.co/manga/150440) (10:32 26 March 2024)
 -   📺 Completed [Yarichin☆Bitch-bu](https://anilist.co/anime/101374) (10:30 26 March 2024)
--   📺 Watched episode 1 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (09:44 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
