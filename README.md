@@ -1,4 +1,4 @@
-[![spotify](https://api.statusbadges.me/badge/spotify/1017067177796456469)](https://api.statusbadges.me/openspotify/1017067177796456469) ![](https://komarev.com/ghpvc/?username=seaprano)
+[![spotify](https://api.statusbadges.me/badge/spotify/1017067177796456469)](https://api.statusbadges.me/openspotify/1017067177796456469)
 
 # 🌸 My recent AniList activity
 
