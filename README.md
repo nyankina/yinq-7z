@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://dsc.gg/eepy)
 [![](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/madebyakrasia)
 
-![seaprano's GitHub stats](https://github-readme-stats.vercel.app/api?username=247ping&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+![cmykquinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmykquinn&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-![247ping](https://count.getloli.com/get/@247ping)
+![247ping](https://count.getloli.com/get/@cmykquinn)
