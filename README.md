@@ -35,7 +35,7 @@
 # > Contact
 [![](https://img.shields.io/badge/Disroot-50162D.svg?style=for-the-badge&logo=Disroot&logoColor=white)](mailto:seaprano@disroot.org)
 [![](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://dsc.gg/eepy)
-[![](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/madebyakrasia)
+[![](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cmykquinn)
 
 ![cmykquinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmykquinn&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
