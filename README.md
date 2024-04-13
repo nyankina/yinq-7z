@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Skip and Loafer](https://anilist.co/anime/141911) (18:10 13 April 2024)
 -   📺 Watched episode 2 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (15:28 12 April 2024)
 -   📺 Watched episode 1 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (04:01 05 April 2024)
 -   📺 Plans to watch [The God of High School](https://anilist.co/anime/116006) (15:13 03 April 2024)
 -   📺 Watched episode 10 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (14:59 30 March 2024)
--   📺 Watched episode 9 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (17:05 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
