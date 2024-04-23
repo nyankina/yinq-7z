@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (04:17 23 April 2024)
 -   📺 Watched episode 11 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:50 19 April 2024)
 -   📺 Plans to watch [INUYASHIKI LAST HERO](https://anilist.co/anime/97922) (14:27 15 April 2024)
 -   📺 Watched episode 1 of [Skip and Loafer](https://anilist.co/anime/141911) (18:10 13 April 2024)
 -   📺 Watched episode 2 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (15:28 12 April 2024)
--   📺 Watched episode 1 of [KONOSUBA -God's blessing on this wonderful world!](https://anilist.co/anime/21202) (04:01 05 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
