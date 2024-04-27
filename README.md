@@ -1,4 +1,4 @@
-[![spotify](https://api.statusbadges.me/badge/spotify/1017067177796456469)](https://api.statusbadges.me/openspotify/1017067177796456469)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31chu7pwyztmssyhorvngkijm6eu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31chu7pwyztmssyhorvngkijm6eu&redirect=true)
 
 # 🌸 My recent AniList activity
 
