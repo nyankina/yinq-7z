@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Girls' Last Tour](https://anilist.co/anime/99420) (16:38 02 May 2024)
 -   📺 Watched episode 2 - 4 of [Hell’s Paradise](https://anilist.co/anime/128893) (17:43 25 April 2024)
 -   📺 Watched episode 1 - 3 of [WIND BREAKER](https://anilist.co/anime/163270) (20:08 24 April 2024)
 -   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (04:17 23 April 2024)
 -   📺 Watched episode 11 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (21:50 19 April 2024)
--   📺 Plans to watch [INUYASHIKI LAST HERO](https://anilist.co/anime/97922) (14:27 15 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
