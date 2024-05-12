@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 - 14 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:15 12 May 2024)
 -   📺 Watched episode 5 - 6 of [Hell’s Paradise](https://anilist.co/anime/128893) (00:38 04 May 2024)
 -   📺 Plans to watch [Girls' Last Tour](https://anilist.co/anime/99420) (16:38 02 May 2024)
 -   📺 Watched episode 2 - 4 of [Hell’s Paradise](https://anilist.co/anime/128893) (17:43 25 April 2024)
 -   📺 Watched episode 1 - 3 of [WIND BREAKER](https://anilist.co/anime/163270) (20:08 24 April 2024)
--   📺 Watched episode 1 of [Hell’s Paradise](https://anilist.co/anime/128893) (04:17 23 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
