@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:23 17 May 2024)
 -   📺 Watched episode 21 - 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (03:46 16 May 2024)
 -   📺 Watched episode 19 - 20 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (03:52 15 May 2024)
 -   📺 Watched episode 17 - 18 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (04:04 13 May 2024)
 -   📺 Watched episode 12 - 16 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (13:35 12 May 2024)
--   📺 Watched episode 5 - 6 of [Hell’s Paradise](https://anilist.co/anime/128893) (00:38 04 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
