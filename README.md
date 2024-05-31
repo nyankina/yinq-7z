@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Delphi-E62431.svg?style=for-the-badge&logo=Delphi&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 # > Software
 ![](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
