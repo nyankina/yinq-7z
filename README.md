@@ -4,7 +4,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (08:50 02 June 2024)
+-   📺 Watched episode 1 - 2 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (10:13 02 June 2024)
 -   📖 Read chapter 3 of [Chainsaw Man](https://anilist.co/manga/105778) (15:04 23 May 2024)
 -   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:23 17 May 2024)
 -   📺 Watched episode 21 - 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (03:46 16 May 2024)
