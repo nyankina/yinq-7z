@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (06:14 08 June 2024)
 -   📖 Read chapter 138 - 140 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (14:38 07 June 2024)
 -   📺 Watched episode 1 - 2 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (10:13 02 June 2024)
 -   📖 Read chapter 3 of [Chainsaw Man](https://anilist.co/manga/105778) (15:04 23 May 2024)
 -   📺 Completed [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (12:23 17 May 2024)
--   📺 Watched episode 21 - 22 of [JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064) (03:46 16 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
