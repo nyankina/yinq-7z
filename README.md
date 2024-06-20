@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
-![](https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white)
+![](https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 # > Languages 
 ![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -38,12 +38,11 @@
 ![](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)
 ![](https://img.shields.io/badge/RAD%20Studio-E62431.svg?style=for-the-badge&logo=RAD-Studio&logoColor=white)
 # > Contact
-[![](https://img.shields.io/badge/Disroot-50162D.svg?style=for-the-badge&logo=Disroot&logoColor=white)](mailto:seaprano@disroot.org)
-[![](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://dsc.gg/eepy)
-[![](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cmykquinn)
+[![](https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?style=for-the-badge&logo=Proton-Mail&logoColor=white)](mailto:optikcyberia@proton.me)
+[![](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/corpolorpo)
 
-![optikcyberia's GitHub stats](https://github-readme-stats.vercel.app/api?username=optikcyberia&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+![corpolorpo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpolorpo&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-![optikcyberia](https://count.getloli.com/get/@optikcyberia)
+![corpolorpo](https://count.getloli.com/get/@corpolorpo)
