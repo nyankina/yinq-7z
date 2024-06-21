@@ -46,3 +46,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ![corpolorpo](https://count.getloli.com/get/@corpolorpo)
+
+![image](https://github.com/corpolorpo/corpolorpo/assets/164869064/c77909eb-04f4-45ff-bb8f-083ce673109c)
+
