@@ -4,11 +4,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (15:58 25 June 2024)
+-   📺 Completed [ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864) (15:58 25 June 2024)
 -   📺 Watched episode 3 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (11:11 21 June 2024)
 -   📖 Read chapter 176 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (17:54 14 June 2024)
 -   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (18:55 11 June 2024)
--   📺 Watched episode 1 of [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (09:37 10 June 2024)
--   📺 Plans to watch [Attack on Titan](https://anilist.co/anime/16498) (07:48 10 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
