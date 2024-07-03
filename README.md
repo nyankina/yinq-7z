@@ -13,7 +13,6 @@
 # > OS
 ![](https://img.shields.io/badge/Windows%2010-0078D6.svg?style=for-the-badge&logo=Windows-10&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 # > Languages 
