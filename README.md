@@ -44,5 +44,5 @@
 
 ![madachine](https://count.getloli.com/get/@madachine)
 
-![image](https://github.com/madachine/madachine/assets/164869064/c77909eb-04f4-45ff-bb8f-083ce673109c)
+![my hyfetch](https://github.com/madachine/madachine/assets/164869064/c558b9ae-86d5-4617-8f45-89ae9bb40d56)
 
