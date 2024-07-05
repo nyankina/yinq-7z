@@ -71,10 +71,7 @@ jobs:
           plugin_screenshot_selector: html
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://madachine.nekoweb.org
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
+          plugin_screenshot_viewport: yes
 
           plugin_sponsors: yes
           plugin_sponsors_past: yes
