@@ -2,5 +2,5 @@
 
 ![madachine](https://count.getloli.com/get/@madachine?theme=rule34)
 
-![Metrics](/github-metrics.svg)
+![Metrics](/achievements.svg)
 </div>
