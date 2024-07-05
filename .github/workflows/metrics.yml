@@ -65,13 +65,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: html
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://madachine.nekoweb.org
-          plugin_screenshot_viewport: yes
 
           plugin_sponsors: yes
           plugin_sponsors_past: yes
