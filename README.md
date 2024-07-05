@@ -2,11 +2,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114) (17:04 05 July 2024)
 -   📺 Plans to watch [My Deer Friend Nokotan](https://anilist.co/anime/175977) (14:13 05 July 2024)
 -   📖 Read chapter 209 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (23:08 01 July 2024)
 -   📖 Read chapter 60 of [Chainsaw Man](https://anilist.co/manga/105778) (23:05 01 July 2024)
 -   📖 Read chapter 188 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (12:49 27 June 2024)
--   📺 Watched episode 1 of [Serial Experiments Lain](https://anilist.co/anime/339) (15:58 25 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 
