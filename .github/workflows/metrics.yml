@@ -26,3 +26,25 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          
+      - name: Head
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+            filename: metrics.classic.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: header, repositories
+            plugin_lines: yes
+
+      - name: Favorites anime and currently watching
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+              filename: metrics.plugin.anilist.svg
+              token: NOT_NEEDED
+              base: ""
+              plugin_anilist: yes
+              plugin_anilist_user: madachine
+              plugin_anilist_medias: anime
+              plugin_anilist_sections: favorites, watching
+              plugin_anilist_limit: 1
